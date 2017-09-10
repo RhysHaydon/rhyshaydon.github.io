@@ -24,6 +24,8 @@
 }
 
 /*! minireset.css v0.0.2 | MIT License | github.com/jgthms/minireset.css */
+
+/* My additions */
 #nav{
 	position: fixed;
 	width: 100%;
@@ -34,6 +36,8 @@
 #content{
 	margin: 0 16.5%;
 }
+/*--------------------*/
+
 
 html,
 body,
